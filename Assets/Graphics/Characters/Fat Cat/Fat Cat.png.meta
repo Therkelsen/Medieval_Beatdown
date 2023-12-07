@@ -1,0 +1,269 @@
+fileFormatVersion: 2
+guid: c017897af038eaa43b068373066ba83f
+timeCreated: 1474917000
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 01_FatCat_0
+    21300002: 01_FatCat_1
+    21300004: 01_FatCat_2
+    21300006: 01_FatCat_3
+    21300008: 01_FatCat_4
+    21300010: 01_FatCat_5
+    21300012: 01_FatCat_6
+    21300014: 01_FatCat_7
+    21300016: 01_FatCat_8
+    21300018: 01_FatCat_9
+    21300020: 01_FatCat_10
+    21300022: 01_FatCat_11
+    21300024: 01_FatCat_12
+    21300026: 01_FatCat_13
+    21300028: 01_FatCat_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 01_FatCat_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 122
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 01_FatCat_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 509
+        width: 124
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 01_FatCat_2
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 515
+        width: 87
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 01_FatCat_3
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 515
+        width: 86
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 01_FatCat_4
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 532
+        width: 65
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 01_FatCat_5
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 532
+        width: 64
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 01_FatCat_6
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 591
+        width: 64
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 01_FatCat_7
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 588
+        width: 64
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 01_FatCat_8
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 554
+        width: 63
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 01_FatCat_9
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 551
+        width: 63
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 01_FatCat_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 272
+        height: 388
+      alignment: 9
+      pivot: {x: 0.8365785, y: 0.072735734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 01_FatCat_11
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 600
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 01_FatCat_12
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 68
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 01_FatCat_13
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 67
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 01_FatCat_14
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 4
+        width: 127
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
